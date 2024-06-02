@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
 //        ListView listView = (ListView) findViewById(R.id.myListView);
 //        ArrayAdapter adapter = new ArrayAdapter<String>(this, R.layout.activity_listview, fruits_string);
 
+        
 
         ArrayAdapter adapter = new ArrayAdapter<String>(this,R.layout.activity_listview,fruits);
 
