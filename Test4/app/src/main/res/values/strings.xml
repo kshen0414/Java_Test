@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test4</string>
+    <string-array name="list_view">
+        <item>Papaya</item>
+        <item>Apple</item>
+        <item>Watermelon</item>
+    </string-array>
+</resources>
